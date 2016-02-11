@@ -2,11 +2,12 @@
 #
 # gitignore contributors: remember to update Global/Xcode.gitignore, Objective-C.gitignore & Swift.gitignore
 
+# Plists
+
 APIKeys.plist
-
 PropertyListSample.plist
+NewPlist.plist
 
-Sample.swift
 
 
 ## Build generated

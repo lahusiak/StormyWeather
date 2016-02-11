@@ -15,6 +15,7 @@
 		7C4EDD491C6CEC3E00781303 /* ForecastKeys.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7C4EDD481C6CEC3E00781303 /* ForecastKeys.swift */; };
 		7C4EDD4B1C6CEEEC00781303 /* Sample.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7C4EDD4A1C6CEEEC00781303 /* Sample.swift */; };
 		7C4EDD4D1C6CF2EC00781303 /* PropertyListSample.plist in Resources */ = {isa = PBXBuildFile; fileRef = 7C4EDD4C1C6CF2EC00781303 /* PropertyListSample.plist */; };
+		7C4EDD4F1C6CF5D600781303 /* NewPlist.plist in Resources */ = {isa = PBXBuildFile; fileRef = 7C4EDD4E1C6CF5D600781303 /* NewPlist.plist */; };
 		7C839E061C6188F600FF210E /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7C839E051C6188F600FF210E /* AppDelegate.swift */; };
 		7C839E081C6188F600FF210E /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7C839E071C6188F600FF210E /* ViewController.swift */; };
 		7C839E0B1C6188F600FF210E /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 7C839E091C6188F600FF210E /* Main.storyboard */; };
@@ -34,6 +35,7 @@
 		7C4EDD481C6CEC3E00781303 /* ForecastKeys.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ForecastKeys.swift; sourceTree = "<group>"; };
 		7C4EDD4A1C6CEEEC00781303 /* Sample.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Sample.swift; sourceTree = "<group>"; };
 		7C4EDD4C1C6CF2EC00781303 /* PropertyListSample.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = PropertyListSample.plist; sourceTree = "<group>"; };
+		7C4EDD4E1C6CF5D600781303 /* NewPlist.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = NewPlist.plist; sourceTree = "<group>"; };
 		7C839E021C6188F600FF210E /* StormyWeather.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = StormyWeather.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		7C839E051C6188F600FF210E /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		7C839E071C6188F600FF210E /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -93,6 +95,7 @@
 				7C4EDD481C6CEC3E00781303 /* ForecastKeys.swift */,
 				7C4EDD4A1C6CEEEC00781303 /* Sample.swift */,
 				7C4EDD4C1C6CF2EC00781303 /* PropertyListSample.plist */,
+				7C4EDD4E1C6CF5D600781303 /* NewPlist.plist */,
 			);
 			path = StormyWeather;
 			sourceTree = "<group>";
@@ -162,6 +165,7 @@
 				7C839E0B1C6188F600FF210E /* Main.storyboard in Resources */,
 				7C4EDD4D1C6CF2EC00781303 /* PropertyListSample.plist in Resources */,
 				7C4EDD3D1C6CD6B500781303 /* .gitignore in Resources */,
+				7C4EDD4F1C6CF5D600781303 /* NewPlist.plist in Resources */,
 				7C839E361C650ACA00FF210E /* WeatherInfo.plist in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
