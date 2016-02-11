@@ -25,7 +25,7 @@
 /* Begin PBXFileReference section */
 		7C4EDCC11C66AEFD00781303 /* NetworkOperation.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = NetworkOperation.swift; sourceTree = "<group>"; };
 		7C4EDCC31C66D3F600781303 /* ForecastService.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ForecastService.swift; sourceTree = "<group>"; };
-		7C4EDD3C1C6CD6B500781303 /* .gitignore */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = .gitignore; sourceTree = "<group>"; };
+		7C4EDD3C1C6CD6B500781303 /* .gitignore */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; name = .gitignore; path = ../.gitignore; sourceTree = "<group>"; };
 		7C4EDD401C6CD7D100781303 /* ApiKey.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ApiKey.swift; sourceTree = "<group>"; };
 		7C4EDD421C6CE7B700781303 /* APIKeys.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = APIKeys.plist; sourceTree = "<group>"; };
 		7C839E021C6188F600FF210E /* StormyWeather.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = StormyWeather.app; sourceTree = BUILT_PRODUCTS_DIR; };
@@ -54,7 +54,6 @@
 		7C839DF91C6188F600FF210E = {
 			isa = PBXGroup;
 			children = (
-				7C4EDD3C1C6CD6B500781303 /* .gitignore */,
 				7C839E041C6188F600FF210E /* StormyWeather */,
 				7C839E031C6188F600FF210E /* Products */,
 			);
@@ -71,6 +70,7 @@
 		7C839E041C6188F600FF210E /* StormyWeather */ = {
 			isa = PBXGroup;
 			children = (
+				7C4EDD3C1C6CD6B500781303 /* .gitignore */,
 				7C839E051C6188F600FF210E /* AppDelegate.swift */,
 				7C839E071C6188F600FF210E /* ViewController.swift */,
 				7C839E391C650BE800FF210E /* CurrentWeather.swift */,
