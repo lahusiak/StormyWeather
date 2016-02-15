@@ -4,13 +4,13 @@
 
 # Plists
 
-StormyWeather/StormyWeather/NewPlist2.plist
+/StormyWeather/StormyWeather/NewPlist3.plist
 
 
 
 ## Build generated
 build/
-DerivedData/    
+DerivedData/
 
 ## Various settings
 *.pbxuser
