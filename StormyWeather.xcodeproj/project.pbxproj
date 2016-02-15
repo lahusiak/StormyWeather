@@ -19,6 +19,7 @@
 		7C4EDD5F1C6E4BE600781303 /* WhackPlist.plist in Resources */ = {isa = PBXBuildFile; fileRef = 7C4EDD5E1C6E4BE600781303 /* WhackPlist.plist */; };
 		7C4EDD611C6E4FA500781303 /* WhackPlist2.plist in Resources */ = {isa = PBXBuildFile; fileRef = 7C4EDD601C6E4FA500781303 /* WhackPlist2.plist */; };
 		7C4EDDA51C72850100781303 /* NewPlist.plist in Resources */ = {isa = PBXBuildFile; fileRef = 7C4EDDA41C72850100781303 /* NewPlist.plist */; };
+		7C4EDDA71C7285C400781303 /* NewPlist2.plist in Resources */ = {isa = PBXBuildFile; fileRef = 7C4EDDA61C7285C400781303 /* NewPlist2.plist */; };
 		7C839E061C6188F600FF210E /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7C839E051C6188F600FF210E /* AppDelegate.swift */; };
 		7C839E081C6188F600FF210E /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7C839E071C6188F600FF210E /* ViewController.swift */; };
 		7C839E0B1C6188F600FF210E /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 7C839E091C6188F600FF210E /* Main.storyboard */; };
@@ -42,6 +43,7 @@
 		7C4EDD5E1C6E4BE600781303 /* WhackPlist.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = WhackPlist.plist; sourceTree = "<group>"; };
 		7C4EDD601C6E4FA500781303 /* WhackPlist2.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = WhackPlist2.plist; sourceTree = "<group>"; };
 		7C4EDDA41C72850100781303 /* NewPlist.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = NewPlist.plist; sourceTree = "<group>"; };
+		7C4EDDA61C7285C400781303 /* NewPlist2.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = NewPlist2.plist; sourceTree = "<group>"; };
 		7C839E021C6188F600FF210E /* StormyWeather.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = StormyWeather.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		7C839E051C6188F600FF210E /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		7C839E071C6188F600FF210E /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -105,6 +107,7 @@
 				7C4EDD5E1C6E4BE600781303 /* WhackPlist.plist */,
 				7C4EDD601C6E4FA500781303 /* WhackPlist2.plist */,
 				7C4EDDA41C72850100781303 /* NewPlist.plist */,
+				7C4EDDA61C7285C400781303 /* NewPlist2.plist */,
 			);
 			path = StormyWeather;
 			sourceTree = "<group>";
@@ -170,6 +173,7 @@
 				7C839E101C6188F600FF210E /* LaunchScreen.storyboard in Resources */,
 				7C4EDD511C6CF7B200781303 /* PropertyListTest.plist in Resources */,
 				7C839E0D1C6188F600FF210E /* Assets.xcassets in Resources */,
+				7C4EDDA71C7285C400781303 /* NewPlist2.plist in Resources */,
 				7C4EDD451C6CEBF300781303 /* APIKeys.plist in Resources */,
 				7C4EDDA51C72850100781303 /* NewPlist.plist in Resources */,
 				7C839E381C650B2F00FF210E /* CurrentWeather1.plist in Resources */,
