@@ -4,22 +4,7 @@
 
 # Plists
 
-/WhackPlist.plist
-
-WhackPlist2.plist/
-
-/APIKeys.plist
-
-/Users/lahusiak/Library/Developer/CoreSimulator/Devices/DB0E9A02-88C3-4BB1-976A-CEC61BA1CC5B/data/Containers/Bundle/Application/05ACA3AD-AA7A-4C4A-B74E-1F936C633F0D/StormyWeather.app/PropertyListTest.plist
-
-/StormyWeather.app/AnotherTest.plist
-
-/Users/lahusiak/Desktop/Nerdery/StormyWeather/StormyWeather/PropertyListTest2.plist
-
-/StormyWeather/PropertyListTest2.plist
-
-
-NewPlist.plist
+StormyWeather/NewPlist.plist
 
 
 
